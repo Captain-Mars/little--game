@@ -1,0 +1,17 @@
+instructions:
+
+Click Esc to escape the game.
+
+Use the mouse to guide the ship.
+Click the mouse to fire bullets.
+
+When 'Beast Mode is ready!' appears,
+click the space key to turn on the  beast mode.
+Beast mode can run for 5 seconds,
+and it needs to cool for 60 seconds.
+
+You have 3 ship
+If you collide with the alien or alien's bullets,
+you will lose one ship.
+If alien reach the bottom of the screen,
+you will also lose one ship.
